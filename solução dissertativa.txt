@@ -1,6 +1,0 @@
-Solução dissertativa:
-
-1. #Entrada: Leia e armazene o número n que deseja multiplicar por 9
-2. #processamento: Subtrair n-1 e armazene como o primeiro digito n1
-3. #Processamento: Subtrair 10-n e armazene como segundo número
-4. #Saída: Apresente n1 e n2 e encerre o programa
